@@ -1,4 +1,5 @@
 ## 🤖 ChatGPT 3.5 turbo Discord BOT
+![banner-momo](https://github.com/TiagoAssuno/discord-chatbot/assets/95497134/43dc64c4-afa9-4e51-8253-57eeb03af991)
 Este é um ChatBot para Discord que usa a API do OpenAI  e usa o modelo de linguagem gpt-3.5-turbo para gerar respostas de conversas. O bot também possui recursos de presença de status aleatório.
 
 ## *Tecnologias Utilizadas*
